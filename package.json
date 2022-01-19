@@ -1,16 +1,16 @@
 {
-  "name": "badwords-list",
+  "name": "badwords-list-br",
   "version": "1.0.0",
   "author": "Michael Price <webmech@gmail.com>",
   "license": "MIT",
-  "description": "A highly consumable list of bad (profanity) english words (forked from badwords)",
+  "description": "A highly consumable list of bad (profanity) english and brazilian words (forked from badwords-list)",
   "main": "./lib/index",
   "scripts": {
     "test": "./node_modules/.bin/mocha -R nyan"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:web-mech/badwords-list.git"
+    "url": "git@github.com:kylix31/badwords-list-br.git"
   },
   "keywords": [
     "bad",
@@ -28,6 +28,6 @@
     "better-assert": "1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/web-mech/badwords-list/issues"
+    "url": "https://github.com/kylix31/badwords-list-br/issues"
   }
 }
